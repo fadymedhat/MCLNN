@@ -266,7 +266,7 @@ HIDDEN_NODES_SLICES_COUNT= 40 # weights visualization for n hidden nodes
 The MCLNN has been evaluated using a range of datasets. The required configuration for each one is available in the `configuration.py`
 We have created a separate repository for the prepossessing required for each dataset, please refer to them for more details.
 
-#### _NOTE:_ the below reesults are based on the Theano implementation of the MCLNN provided [here](https://github.com/fadymedhat/MCLNN)
+#### _NOTE:_ the below results are based on the Theano implementation of the MCLNN provided [here](https://github.com/fadymedhat/MCLNN)
 
 | Dataset | MCLNN accuracy % |
 |:---|:---:|
