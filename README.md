@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/fadymedhat/MCLNN/blob/master/LICENSE)
 
-### __NOTE:__ The Theano version is avaliable [here](https://github.com/fadymedhat/MCLNN)
+### __NOTE:__ Theano version is avaliable [here](https://github.com/fadymedhat/MCLNN)
 
 MCLNN: Masked Conditional Neural Networks (tensorflow)
 ========
