@@ -4,7 +4,7 @@
 
 ### __NOTE:__ This is the Tensoflow implementation of the MCLNN. The Theano version is avaliable [here](https://github.com/fadymedhat/MCLNN)
 
-MCLNN: Masked Conditional Neural Networks
+MCLNN: Masked Conditional Neural Networks (TENSORFLOW)
 ========
 A neural network model designed for multi-channel temporal signals.
 The Masked Conditional Neural Networks (MCLNN) is inspired by spectrograms and the use of filterbanks in signal analysis. It has been evaluated on sound. However, the model is
