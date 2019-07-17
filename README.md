@@ -4,7 +4,7 @@
 
  
 
-<img height="25" style="padding: 0px 0px 0px 0px;" src='http://www.deeplearning.net/software/theano/_static/theano_logo_allwhite_210x70.png'> version is avaliable [here](https://github.com/fadymedhat/MCLNN)
+<img height="25" style="padding: 0px 0px 0px 0px;" src="http://www.deeplearning.net/software/theano/_static/theano_logo_allwhite_210x70.png"> version is avaliable [here](https://github.com/fadymedhat/MCLNN)
 
 MCLNN: Masked Conditional Neural Networks (tensorflow)
 ========
